@@ -1,4 +1,4 @@
-# Terraform Block
+# Terraform Block Section
 #Testing
 terraform {
     required_providers {
