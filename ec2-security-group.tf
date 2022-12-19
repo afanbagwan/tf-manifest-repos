@@ -1,5 +1,5 @@
 resource "aws_security_group" "allow_https_sg" {
-  name        = "AllowHTTPSSG"
+  name        = "AllowHTTPSSG01"
   description = "Allow HTTPS inbound traffic"
 
   ingress {
